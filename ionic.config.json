@@ -1,0 +1,7 @@
+{
+  "name": "ReactLeafletMaps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
